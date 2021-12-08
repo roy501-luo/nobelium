@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'CRAIGARY',
+  title: '罗军的博客',
   author: 'roy501',
-  email: 'roy501@126.com',
-  link: 'https://nobelium.vercel.app',
+  email: 'roy.luo.company@gmail.com',
+  link: 'https://www.notion.so/roy501/a424bd8a6e514de7a88e7b8d25ea933a',
   description: 'This gonna be an awesome website.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
